@@ -1,0 +1,9 @@
+# Claude CodeのシステムスキルはGit管理対象外（symlinkで扱うため）
+.system/
+skills/.system/
+
+# 一般的な除外
+*.log
+.DS_Store
+.idea/
+*.tmp
